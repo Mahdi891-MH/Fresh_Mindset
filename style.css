@@ -27,7 +27,7 @@ nav h1{
 }
 nav h1 div:first-child{
     font-weight: 800;
-    letter-spacing: 9px;
+    letter-spacing: 7px;
 	padding-left: 7px;
 }
 nav h1 div:last-child{
